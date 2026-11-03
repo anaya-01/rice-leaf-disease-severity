@@ -15,8 +15,6 @@ The study aims to:
 - derive an image-based severity score from high-activation regions within the visible leaf area; and
 - compare severity estimates across disease categories using statistical analysis.
 
-> **Note:** The severity score represents disease-associated model activation within the visible leaf area. It should not be interpreted as a direct measurement of lesion coverage or as a precise lesion boundary.
-
 ## Dataset
 
 The study uses the **Paddy Doctor: Paddy Disease Classification** dataset.
