@@ -1,6 +1,6 @@
 # Rice Leaf Disease Severity Analysis
 
-This repository contains the code developed for the study **“Comparing Lesion Severity Across Rice Leaf Diseases Using Image-Based Quantification.”**
+This repository contains the code developed for the study **“Comparing image-derived disease severity across rice leaf diseases using deep learning”**
 
 The study investigates differences in image-derived severity estimates across ten rice leaf disease classes using a DenseNet-121 classification model and Grad-CAM-based image analysis.
 
